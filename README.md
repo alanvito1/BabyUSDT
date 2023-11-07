@@ -10,7 +10,7 @@ The Baby USDT Advantage:
 
 2. Reflections and Rewards: Engage in the exciting world of tokenomics! With each buy/sell, a 17% tax is applied, generating rewards in the form of tether (USDT). Holders benefit from these reflections, creating a dynamic cycle where your investment works for you. The more Baby USDT you hold, the greater your share of the rewards. It's a technical marvel designed for your financial growth.
 
-3. Technical Precision: Our smart contract, residing at 0x8dc1942e2089e711725eda66ab06650035475441 on the Binance Smart Chain, powers our ecosystem. With a meticulous 17% tax breakdown — 10% for USDT rewards, 5% for marketing, and 2% for liquidity — every transaction fuels our community's growth. We ensure liquidity, stability, and sustainability in every aspect of our operations.
+3. Technical Precision: Our smart contract, residing at [0x8dc1942e2089e711725eda66ab06650035475441](https://bscscan.com/token/0x8dc1942e2089e711725eda66ab06650035475441#code) on the Binance Smart Chain, powers our ecosystem. With a meticulous 17% tax breakdown — 10% for USDT rewards, 5% for marketing, and 2% for liquidity — every transaction fuels our community's growth. We ensure liquidity, stability, and sustainability in every aspect of our operations.
 
 4. User-Friendly Tools: Empowering our community, we provide tools like Bscan to track your rewards effortlessly. Input your wallet address, query the contract, and witness the magic unfold. Your pending rewards and total earnings are just a click away, allowing you to stay informed and engaged in your investment journey.
 
