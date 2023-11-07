@@ -4,6 +4,8 @@ Dear Crypto Enthusiasts,
 
 Step into the heart of innovation and join our Baby USDT family, where technical excellence meets the warmth of a community-driven embrace. At Baby USDT, we're not just investors; we're pioneers, explorers, and builders of the crypto frontier. We welcome you to a space where every transaction, every line of code, and every idea contributes to a thriving ecosystem.
 
+[Telegram Group](https://t.me/BabyUSDToken)
+
 The Baby USDT Advantage:
 
 1. Transparent Foundations: Similar to the anonymous origins of Bitcoin, our project's creator remains elusive, allowing the innovative spirit to flourish. This transparency extends to our platform, where information is open, accessible, and shared among our community members. Trust is not just earned; it's the essence of our foundation.
@@ -19,8 +21,6 @@ The Baby USDT Advantage:
 Embark on Your Journey:
 
 Join us in this exhilarating venture. Navigate the complexities of crypto with ease, knowing that you are part of a community that values technical precision, transparency, and the spirit of collaboration. Baby USDT isn't just a coin; it's a movement, and you are an essential part of it.
-
-Let’s Code the Future Together!
 
 Warm regards,
 
