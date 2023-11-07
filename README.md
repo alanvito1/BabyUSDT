@@ -6,6 +6,12 @@ Step into the heart of innovation and join our Baby USDT family, where technical
 
 [Telegram Group](https://t.me/BabyUSDToken)
 
+[PancakeSwap](https://pancakeswap.finance/swap?inputCurrency=0x0E09FaBB73Bd3Ade0a17ECC321fD13a19e81cE82&outputCurrency=0x8Dc1942E2089e711725EDA66ab06650035475441)
+
+[DEXTools Pair Explorer](https://www.dextools.io/app/en/bnb/pair-explorer/0x2536a01206e5335ee0c4d5c0470396bda131f9f4)
+
+[CoinMarketCap](https://coinmarketcap.com/currencies/babyusdt/)
+
 The Baby USDT Advantage:
 
 1. Transparent Foundations: Similar to the anonymous origins of Bitcoin, our project's creator remains elusive, allowing the innovative spirit to flourish. This transparency extends to our platform, where information is open, accessible, and shared among our community members. Trust is not just earned; it's the essence of our foundation.
