@@ -1,8 +1,10 @@
-Welcome to the Baby USDT Community: Where Innovation Meets Family!
+# BabyUSDT - Passive income paid in USDT with Self-Custody.
 
-Dear Crypto Enthusiasts,
+With their tokenomics, each Buy/Sell is taxed, and then that tax is distributed automatically back to holders' wallets in the form of the native coin.
 
-Step into the heart of innovation and join our Baby USDT family, where technical excellence meets the warmth of a community-driven embrace. At Baby USDT, we're not just investors; we're pioneers, explorers, and builders of the crypto frontier. We welcome you to a space where every transaction, every line of code, and every idea contributes to a thriving ecosystem.
+Our tokenomics work very similarly but with a twist. Instead of receiving the native coin, the tax is converted into tether and then automatically distributed to community members who hold Baby USDT. The more you hold, the more reflections you get.
+
+The distribution is volume-based, and when the smart contract is satisfied, it will automatically send tether to your wallet. Due to the need to satisfy the smart contract, the distribution period varies.
 
 [Telegram Group](https://t.me/BabyUSDToken)
 
@@ -14,7 +16,7 @@ Step into the heart of innovation and join our Baby USDT family, where technical
 
 [CoinMarketCap](https://coinmarketcap.com/currencies/babyusdt/)
 
-The Baby USDT Advantage:
+# The Baby USDT Advantage:
 
 1. Transparent Foundations: Similar to the anonymous origins of Bitcoin, our project's creator remains elusive, allowing the innovative spirit to flourish. This transparency extends to our platform, where information is open, accessible, and shared among our community members. Trust is not just earned; it's the essence of our foundation.
 
